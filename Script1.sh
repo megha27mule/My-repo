@@ -3,3 +3,5 @@
 echo "Hello All, Welcome to AWS/Devops Class"
 echo "Hello, How are you?"
 echo "We are learning Git"
+echo "We are learning Devops"
+echo "hi, I'm good"
